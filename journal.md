@@ -6,7 +6,9 @@ i recomp[ileed the entire bom this wont be a single mp3 ipod like devkice but co
 
 - started with scheatic i cant not add the boster module itll make tyhe ipos more cluncky no more compact but tgia wont work without it![image](https://github.com/user-attachments/assets/358be03c-0a3a-4001-9e0a-3aef4d634857)
 - ![image](https://github.com/user-attachments/assets/50b8f289-ce7b-4926-badc-43397cc1934c)
-- 4
+- ![image](https://github.com/user-attachments/assets/ebd5c32a-ebe8-4bb4-9c2f-5eaccd262f22)
+![image](https://github.com/user-attachments/assets/e310cb3d-2d9f-4bce-9be4-51350921591c) just do tiring the pins are getting mesed uop
 
 
- time spent todaY-4 HRS from morning 
+
+ time spent todaY-7
