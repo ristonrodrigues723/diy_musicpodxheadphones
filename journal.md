@@ -9,6 +9,9 @@ i recomp[ileed the entire bom this wont be a single mp3 ipod like devkice but co
 - ![image](https://github.com/user-attachments/assets/ebd5c32a-ebe8-4bb4-9c2f-5eaccd262f22)
 ![image](https://github.com/user-attachments/assets/e310cb3d-2d9f-4bce-9be4-51350921591c) just do tiring the pins are getting mesed uop
 
+finished buton one are remaining![image](https://github.com/user-attachments/assets/af3c5381-dfab-4bda-a004-91090d8a6ee0)
 
 
- time spent todaY-7
+
+
+ time spent todaY-8
