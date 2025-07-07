@@ -11,6 +11,7 @@ i recomp[ileed the entire bom this wont be a single mp3 ipod like devkice but co
 
 finished buton one are remaining![image](https://github.com/user-attachments/assets/af3c5381-dfab-4bda-a004-91090d8a6ee0)
 
+ still require a lot of fixes![image](https://github.com/user-attachments/assets/ac71e4af-e044-4be1-9b91-6c07e3e0f4c3)
 
 
 
