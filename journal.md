@@ -29,9 +29,10 @@ the pcb still to muvch cosgulated man ill become mad before i make it compact![i
  migrated everything to easyeda pro now it seems good-
  ![image](https://github.com/user-attachments/assets/c07d0100-7224-4878-b808-11e78f24d15c)
  found code actual working codwe that can be adapted good news man
+routing sucks big time tried the  components are bith side of pcb and adnjustig them is a headache making it compavrt is more of a headache
+managed to make it compact finally found the error
 
 
 
-
- time pent 4-hr.
+ time pent 7-hr.
 
