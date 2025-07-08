@@ -19,7 +19,9 @@ finished buton one are remaining![image](https://github.com/user-attachments/ass
 
  day 2 8/7/25
  tasks 
- rwiirinf the esp and the dac needed had to spent an entire our as i reffrdd the wrong datasheet ![image](https://github.com/user-attachments/assets/86f43d5e-4a05-411f-b539-df677036d85e)
+ rewired the esp and the dac needed had to spent an entire our as i refered the wrong datasheet ![image](https://github.com/user-attachments/assets/86f43d5e-4a05-411f-b539-df677036d85e)
+ ok it was a problem with thte netlist not updating nas qfrequently as need this caused complete vcaos fro th last 1.5 hrs its good to go now cirut was righr nee to addn the 5 switches for control![image](https://github.com/user-attachments/assets/42e84753-f95e-4605-82fa-1ddd75805401)
 
- time pent 1-hr.
+
+ time pent 2-hr.
 
