@@ -32,6 +32,9 @@ the pcb still to muvch cosgulated man ill become mad before i make it compact![i
 routing sucks big time tried the  components are bith side of pcb and adnjustig them is a headache making it compavrt is more of a headache
 managed to make it compact finally found the error
 
+![image](https://github.com/user-attachments/assets/994cbef5-29e6-4366-97dd-5c9e668a18d6)
+
+
 
 
  time pent 7-hr.
