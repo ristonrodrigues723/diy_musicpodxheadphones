@@ -25,6 +25,7 @@ shouod do the task if not il have to revixse after wiring![image](https://github
 finall;y ![image](https://github.com/user-attachments/assets/58541ee5-bd5e-4bf5-9cc0-337c5db6725c)
 the pcb still to muvch cosgulated man ill become mad before i make it compact![image](https://github.com/user-attachments/assets/34d3d692-08f0-49db-8e1e-5898ad410b70)
 
+ man putting elements at top and bottommmesses things up![image](https://github.com/user-attachments/assets/b01bbf07-c541-4417-a163-58986a15e21c)
 
 
 
