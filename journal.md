@@ -15,4 +15,11 @@ finished buton one are remaining![image](https://github.com/user-attachments/ass
 
 
 
- time spent todaY-8
+ time spent todaY-8 hrs
+
+ day 2 8/7/25
+ tasks 
+ rwiirinf the esp and the dac needed had to spent an entire our as i reffrdd the wrong datasheet ![image](https://github.com/user-attachments/assets/86f43d5e-4a05-411f-b539-df677036d85e)
+
+ time pent 1-hr.
+
