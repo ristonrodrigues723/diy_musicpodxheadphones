@@ -23,8 +23,10 @@ finished buton one are remaining![image](https://github.com/user-attachments/ass
  ok it was a problem with thte netlist not updating nas qfrequently as need this caused complete vcaos fro th last 1.5 hrs its good to go now cirut was righr nee to addn the 5 switches for control![image](https://github.com/user-attachments/assets/42e84753-f95e-4605-82fa-1ddd75805401)
 shouod do the task if not il have to revixse after wiring![image](https://github.com/user-attachments/assets/7984ec6f-7ba1-434f-be4e-d582d6e46f79)
 finall;y ![image](https://github.com/user-attachments/assets/58541ee5-bd5e-4bf5-9cc0-337c5db6725c)
+the pcb still to muvch cosgulated man ill become mad before i make it compact![image](https://github.com/user-attachments/assets/34d3d692-08f0-49db-8e1e-5898ad410b70)
 
 
 
- time pent 2-hr.
+
+ time pent 4-hr.
 
