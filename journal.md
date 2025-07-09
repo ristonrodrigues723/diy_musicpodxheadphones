@@ -59,7 +59,8 @@ finally no errpor ![image](https://github.com/user-attachments/assets/f836d2bf-5
 ![image](https://github.com/user-attachments/assets/73ecd475-fd0d-4ef0-a443-456c43924172)
 ![image](https://github.com/user-attachments/assets/3a98591a-80e5-41ec-9471-46cb330a0807)
 
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/134b1cae-ca43-4410-a279-5b4194eede12)
 
-time speamnt 6 hrs
+
+time speamnt 6.5 hrs
 
