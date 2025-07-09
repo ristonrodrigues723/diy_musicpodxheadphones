@@ -38,7 +38,28 @@ fixed last wirinf thatgo stuck cotinuously
 
 
 
+![image](https://github.com/user-attachments/assets/c2ef5221-e6a8-493d-bf32-c91b7c145284)
 
 
  time pent 8-hr.
+day 3 9/7/25
+had to add comon gend for the tp charger module![image](https://github.com/user-attachments/assets/21176ded-d65d-4c03-a7b7-c6cf98374f2a)
+
+
+
+things got messed the vendor droped support for hcb found another thaTs cheaper so lets see where it goes
+some pins got messed up sck and button io got connected togethrrer shorting the circut had to compeletely reset the circut
+damn somehow no matter what i do the netlist isnt updating iy can lead to problems kater![image](https://github.com/user-attachments/assets/b0ce0255-60f7-4a2d-8758-f86320a0e90f)
+made it as compact as i could without pcba
+man still error not fixed schematic done its connected but somehow pchb isnt getting chaNGED maybeil have to reroute
+
+there were 3 routings betwween pin 17 31 of esp anf button and dac allmwere connected in pcb despite cghanges in schenatic routing didnt help re routed and al errors gone will check netlist again
+finally no errpor ![image](https://github.com/user-attachments/assets/f836d2bf-5a07-404c-aa7f-ebb2cdaec4f6)
+![image](https://github.com/user-attachments/assets/8c8469ef-5846-4b52-8162-b47fc44c7cd6)
+![image](https://github.com/user-attachments/assets/73ecd475-fd0d-4ef0-a443-456c43924172)
+![image](https://github.com/user-attachments/assets/3a98591a-80e5-41ec-9471-46cb330a0807)
+
+ ![Uploading image.png…]()
+
+time speamnt 6 hrs
 
