@@ -60,7 +60,8 @@ finally no errpor ![image](https://github.com/user-attachments/assets/f836d2bf-5
 ![image](https://github.com/user-attachments/assets/3a98591a-80e5-41ec-9471-46cb330a0807)
 
 ![image](https://github.com/user-attachments/assets/134b1cae-ca43-4410-a279-5b4194eede12)
+fixed the pcb no drc errors no footpront erros footprints were wrong that was causing mismatch betee schematic and pch fixed manually routed and done did eith mofel too next stdep case im not surd if this wil be done swithin time frame i nwnt to procced with with headphones but they wont be compeketed within this timeframe
 
 
-time speamnt 6.5 hrs
+time speamnt 8 hrs
 
