@@ -65,3 +65,16 @@ fixed the pcb no drc errors no footpront erros footprints were wrong that was ca
 
 time speamnt 8 hrs
 
+day 4 
+binded all 3de models from easy eda serch and fixing them was a headache man.
+![Screenshot 2025-07-09 154556](https://github.com/user-attachments/assets/50befabd-34fc-408b-b2a9-9a98e90fea40)
+![Screenshot 2025-07-09 224013](https://github.com/user-attachments/assets/3d51d8d8-22a7-4888-8ba5-cbbab076ceb2)
+![Screenshot 2025-07-09 224352](https://github.com/user-attachments/assets/a6d3af8e-04a0-445e-be84-d791820b1933)
+
+
+
+
+created case base top extrudes and othe r manirs still 3cm height not comoact at ill in can tryb2 but needc pcb to actually bporoceed further
+![Screenshot 2025-07-09 230049](https://github.com/user-attachments/assets/e6c87fc5-c409-4fbb-bf4e-66bc924dcf5c)
+
+
