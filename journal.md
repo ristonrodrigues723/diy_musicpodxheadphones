@@ -80,8 +80,14 @@ hrs -4
 
 day5,6
 tasks done- created the 3d modek for the mp3 bal;ance the vpcb in the middlr
+<img width="1918" height="823" alt="image" src="https://github.com/user-attachments/assets/e95cc164-450b-4f5a-bc94-c44b4d82d3d5" />
+
 added the main button ring
+<img width="1917" height="843" alt="image" src="https://github.com/user-attachments/assets/a7c7f5f7-9fa8-4d20-90ea-b607ce27906d" />
+
 reshareched ecerything to create headphones but rhe blke chips in india are oldrer c=ost a lot suck will use my owjn older ble chip from h\old headphones
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/c6184b39-e386-40ff-941a-751c676434bb" />
+
 
 
 
