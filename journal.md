@@ -89,7 +89,15 @@ reshareched ecerything to create headphones but rhe blke chips in india are oldr
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/c6184b39-e386-40ff-941a-751c676434bb" />
 <img width="1918" height="837" alt="image" src="https://github.com/user-attachments/assets/d58d6410-4a10-424e-b549-df2bd5294184" />
 
+<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/5cc50ae3-3311-4eba-987f-d5391a24c945" />
+
+
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/7dcfd533-353c-4233-bbb9-9c25b661f7e4" />
+
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/ff559abc-cca1-4783-a34e-47e78a0166ce" />
+finally got thr slot for \carging right 2 extruses 2 deletions laTER<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/03d8e1a2-21c8-40d2-aa50-c07364643333" />
+
+
 
 
 
