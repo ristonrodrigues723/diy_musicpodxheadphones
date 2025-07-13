@@ -87,6 +87,10 @@ added the main button ring
 
 reshareched ecerything to create headphones but rhe blke chips in india are oldrer c=ost a lot suck will use my owjn older ble chip from h\old headphones
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/c6184b39-e386-40ff-941a-751c676434bb" />
+<img width="1918" height="837" alt="image" src="https://github.com/user-attachments/assets/d58d6410-4a10-424e-b549-df2bd5294184" />
+
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/7dcfd533-353c-4233-bbb9-9c25b661f7e4" />
+
 
 
 
