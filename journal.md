@@ -79,13 +79,13 @@ created case base top extrudes and othe r manirs still 3cm height not comoact at
 hrs -4
 
 day5,6
-tasks done- created the 3d modek for the mp3 bal;ance the vpcb in the middlr
+tasks done- created the 3d model, gave more time fixed the isue with jack sd card and the charging port slot
 <img width="1918" height="823" alt="image" src="https://github.com/user-attachments/assets/e95cc164-450b-4f5a-bc94-c44b4d82d3d5" />
 
-added the main button ring
+added the main button ring spenat 3 hrs here it was a headche it got messed had to get real dimens iterate til i could get it riht
 <img width="1917" height="843" alt="image" src="https://github.com/user-attachments/assets/a7c7f5f7-9fa8-4d20-90ea-b607ce27906d" />
 
-reshareched ecerything to create headphones but rhe blke chips in india are oldrer c=ost a lot suck will use my owjn older ble chip from h\old headphones
+wanted to c rrste the set of hradphones from scratch but parts as i wantt are not available in india and alibaba is dievering so ill use old pcb from old headphone as the brain
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/c6184b39-e386-40ff-941a-751c676434bb" />
 <img width="1918" height="837" alt="image" src="https://github.com/user-attachments/assets/d58d6410-4a10-424e-b549-df2bd5294184" />
 
@@ -95,10 +95,14 @@ reshareched ecerything to create headphones but rhe blke chips in india are oldr
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/7dcfd533-353c-4233-bbb9-9c25b661f7e4" />
 
 <img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/ff559abc-cca1-4783-a34e-47e78a0166ce" />
-finally got thr slot for \carging right 2 extruses 2 deletions laTER<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/03d8e1a2-21c8-40d2-aa50-c07364643333" />
+finally got thr slot for carging right 2 extruses 2 deletions laTER<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/03d8e1a2-21c8-40d2-aa50-c07364643333" />
 
 <img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/61f884ef-191a-49c5-a68f-023d265354d9" />
+finished the button slidinfg btutto ttio turn it on off like ipod ill later makr it more compact once oarts arrive
 
+got the code fro t]github addeed minor changes code isnt even mine i made my right oinallocations and adde buton functionality fromm a yt vid - little help 
+
+total time -8 hrs 
 
 
 
