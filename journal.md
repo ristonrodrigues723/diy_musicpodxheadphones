@@ -76,5 +76,12 @@ binded all 3de models from easy eda serch and fixing them was a headache man.
 
 created case base top extrudes and othe r manirs still 3cm height not comoact at ill in can tryb2 but needc pcb to actually bporoceed further
 ![Screenshot 2025-07-09 230049](https://github.com/user-attachments/assets/e6c87fc5-c409-4fbb-bf4e-66bc924dcf5c)
+hrs -4
+
+day5,6
+tasks done- created the 3d modek for the mp3 bal;ance the vpcb in the middlr
+added the main button ring
+reshareched ecerything to create headphones but rhe blke chips in india are oldrer c=ost a lot suck will use my owjn older ble chip from h\old headphones
+
 
 
