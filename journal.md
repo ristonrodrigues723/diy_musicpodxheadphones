@@ -118,6 +118,7 @@ done with headband its 15.5 cm wide so most human heads will fit in done with ap
 
 <img width="1916" height="879" alt="image" src="https://github.com/user-attachments/assets/b9da5828-7ea3-453c-a5b3-62d9fb3c9576" />
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/88dfd099-d22e-4e99-9c94-0b997c235732" />
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/47098de6-2b55-4006-ba69-9251119e62f4" />
 
 time spent 3.5 hrs
 
