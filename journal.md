@@ -115,7 +115,13 @@ SoloWIT Professional Cooling-Gel Earpads for Bose QuietComfort 35 (QC35) and Qui
 <img width="718" height="508" alt="image" src="https://github.com/user-attachments/assets/8d2899cb-0b4f-46f0-b300-67586d22c4de" />
 done with headband its 15.5 cm wide so most human heads will fit in done with appropraiate illets and stuff
 <img width="1555" height="764" alt="image" src="https://github.com/user-attachments/assets/22aab1e4-0343-439e-aaf1-ddcab949804f" />
-time spent 2.5 hrs
+
+<img width="1916" height="879" alt="image" src="https://github.com/user-attachments/assets/b9da5828-7ea3-453c-a5b3-62d9fb3c9576" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/88dfd099-d22e-4e99-9c94-0b997c235732" />
+
+time spent 3.5 hrs
+
+
 
 
 
