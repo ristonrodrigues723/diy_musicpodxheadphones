@@ -104,6 +104,20 @@ got the code fro t]github addeed minor changes code isnt even mine i made my rig
 
 total time -8 hrs 
 
+date -14/7/25
+tasks done - reserched all needed things for headphone more reserch, found out old pcb stil works wil need a battery headphone pads ill design the case, started basic design
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/57f170af-5fc6-4b3f-b476-bfc2ca2d84c2" />
+SoloWIT Professional Cooling-Gel Earpads for Bose QuietComfort 35 (QC35) and Quiet Comfort 35 II (QC35 II) Over-Ear Headphones, Ear Pads Cushions Replacement with Noise Isolation Foam wil be used as earpads
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/79b691df-6067-4c26-a5bb-6d6780a48276" />
+
+
+<img width="718" height="508" alt="image" src="https://github.com/user-attachments/assets/8d2899cb-0b4f-46f0-b300-67586d22c4de" />
+done with headband its 15.5 cm wide so most human heads will fit in done with appropraiate illets and stuff
+<img width="1555" height="764" alt="image" src="https://github.com/user-attachments/assets/22aab1e4-0343-439e-aaf1-ddcab949804f" />
+time spent 2.5 hrs
+
+
 
 
 
