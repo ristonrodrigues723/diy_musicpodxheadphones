@@ -141,9 +141,14 @@ finished speaker holder <img width="1919" height="864" alt="image" src="https://
 <img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/508f26e9-1f9b-495b-893a-b93790fe8667" />
 
 founf out i cant se spakers form omy old headphoes reserched andd aded neede spaekers and battey to bom the pcb is working had to solcs to a speraker and bafrtery yto trstg now il compekete this by tommorow
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/c6e4fdad-d317-45a5-8e82-322fa3e301c0" />
+<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/cc3ca27a-3576-43c9-8837-32e2b1cb3964" />
+
+<img width="1897" height="882" alt="image" src="https://github.com/user-attachments/assets/592aa1a6-ee62-43f1-9438-103bee8a6f33" />
 
 
-totral time today-3.5 hrs
+
+totral time today-4.5 hrs
 
 
 
