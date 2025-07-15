@@ -127,6 +127,24 @@ time spent 4 hrs
 
 day -15/7/25
 tasks experimenting with the arc and ellipse too to cereaRE earpad body-<img width="1919" height="785" alt="image" src="https://github.com/user-attachments/assets/15ccf81a-7a84-4b29-a757-4c4a0c8a97a0" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/2884929a-599e-490d-a469-abc6cde61525" />
+
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/92656184-fe76-4808-934d-6b1c68935cad" />
+
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/97c67986-fbd9-4a50-8b41-f0c9310cfbb1" />
+
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/060bae64-c2c2-40bc-9e09-5176dd265e3e" />
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/61a3d0d4-94b0-41cf-924d-c8bebe619592" />
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/878ed990-0be3-411c-aa95-faa89df621d6" />
+finished speaker holder <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/ab68bc0b-635e-4aef-87c3-3e590b405edf" />
+
+
+totral time tyiday-2 hrs
+
+
+
+
+
 
 
 
