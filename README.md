@@ -1,6 +1,7 @@
-# diy_musicpodxheadphones
-diy_musicpod x headphones by ristonrodrigues aka maximus
-total hrs speaNT-40+ more will be sent on soldering assembly and the iterative design og the headphones a lot of work for that still remains
+# diy_musicpod x headphones
+#diy_musicpod x headphones by ristonrodrigues aka maximus
+total hrs speant-40+ 
+more time will be spent on soldering assembly and the iterative design og the headphones a lot of work for that still remains, code was taken from the esps3 music library with minor changes needed made still a lot are yet to be made.
 this is a combination og diy headphones as well as mp3 player , mp3 player is esxp32 s3 bases  tried making it as compact as i could i can only reduce the vase sixe of the player once i get the pcb + paets , the headphone is stil in design im improving im posting this so i caN get the pcb for mp3 player early the headphone i went though csr8045 but the chip in india is too expensive and the vendors dont support hcb, so this is walkman like project with my custom designed mp3player and headphones the headphone pcb was taken from my old headphone which still works themp3 plaer ises esp32 sc n8r16 more flash memoery so dispolaYING Graphics will become easier the 1.8 tft is stil out of satock the case design wil chaNGE as per the pcb and part 
 
 diy mp3 player mp3pod-
