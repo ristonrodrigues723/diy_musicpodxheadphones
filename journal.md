@@ -138,8 +138,12 @@ tasks experimenting with the arc and ellipse too to cereaRE earpad body-<img wid
 <img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/878ed990-0be3-411c-aa95-faa89df621d6" />
 finished speaker holder <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/ab68bc0b-635e-4aef-87c3-3e590b405edf" />
 
+<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/508f26e9-1f9b-495b-893a-b93790fe8667" />
 
-totral time tyiday-2 hrs
+founf out i cant se spakers form omy old headphoes reserched andd aded neede spaekers and battey to bom the pcb is working had to solcs to a speraker and bafrtery yto trstg now il compekete this by tommorow
+
+
+totral time today-3.5 hrs
 
 
 
