@@ -125,6 +125,10 @@ done with headband its 15.5 cm wide so most human heads will fit in done with ap
 
 time spent 4 hrs
 
+day -15/7/25
+tasks experimenting with the arc and ellipse too to cereaRE earpad body-<img width="1919" height="785" alt="image" src="https://github.com/user-attachments/assets/15ccf81a-7a84-4b29-a757-4c4a0c8a97a0" />
+
+
 
 
 
