@@ -166,9 +166,13 @@ midddle part to hold imp stuff
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/fbc9bd97-58ee-4346-93b0-b3aacf5efb0e" />
 
 imprted thr tp4050 convert4d stp to stl moe creaing holders for that
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/55f7952a-900e-49c8-8546-1ec3988a5db0" />
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/620cf810-a49e-4e4c-89ac-c0dd8132a080" />
 
 
-time spemt-4 hrs
+
+
+time spemt-6 hrs
 
 
 
