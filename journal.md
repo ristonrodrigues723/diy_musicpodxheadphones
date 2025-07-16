@@ -151,6 +151,28 @@ founf out i cant se spakers form omy old headphoes reserched andd aded neede spa
 totral time today-4.5 hrs
 
 
+day 16/7/.25
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/4b152918-8863-4d19-890a-d4bd205d0294" />
+
+created middle part b to hold modt nedded stuff
+eaercusion chamfer<img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/8487975d-7830-4a4c-9c4e-1be283bea2b8" />
+
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/9d2457a4-82d2-461f-bf6b-c1cb3b7c011f" />
+midddle part to hold imp stuff
+
+
+
+
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/fbc9bd97-58ee-4346-93b0-b3aacf5efb0e" />
+
+imprted thr tp4050 convert4d stp to stl moe creaing holders for that
+
+
+time spemt-4 hrs
+
+
+
+
 
 
 
