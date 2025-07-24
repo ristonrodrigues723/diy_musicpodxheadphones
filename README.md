@@ -3,14 +3,17 @@
 
 DIY MusicPod x Headphones
 Project Cost: $110
-Hours Spent: 40+ (and counting!)
+
+Hours Spent: 40+ still a lot remains
+
 description -
-this is an audophile wlkman inspired custom designed by me. we have an audiophile grade mp3player with built in dac and amplifier with suporrting headphones .
+this is an audophile grade music player inspired by sony walkman  custom designed by me. i  have designed an  an audiophile grade mp3player with built in dac and amplifier with suporrting headphones. 2 people at a ime can use this to listen to music due yo use of dual jacks
 
 How would you use this project?-
-to listen to music with distraction of afds or checkinh pgine notifications just add in pocket and move ahead. seemless audiophile grade music without intrusions.
- Why did you make this project?-
-i wanted to have audiophile grad music experienxe without the high price tag and making somethng of my own was the most right way to do it. 
+to listen to music with distraction of ads or checking phone notifications just plug and play . seemless audiophile grade music without intrusions. dual jacks make it easu to plus 2 diff earhhobes for people to listen to same music
+
+Why did you make this project?-
+i wanted to have audiophile grad music experienxe without the high price tag and making somethng of my own was the most right way to do it. so i designed amd made this project
 
 
 onshape link(mp3player)-https://cad.onshape.com/documents/048c7b74ffe28b9d030bc2e5/w/0375e359a7d5bf4b5c1c63b7/e/c909d057c5888ffc41c2d2ab?renderMode=0&uiState=687685c666acdc5adb8d3029
