@@ -1,9 +1,17 @@
 # diy_musicpod x headphones
-#diy_musicpod x headphones by ristonrodrigues aka maximus
-cost 110 dollars
-total hrs speant-40+ 
-so this is diy walkman inspired project i made my own mpe player using esps3 so i can have an mp3 player with dac and amplifier with audiophile grade music but made by me
-more time will be spent on soldering assembly and the iterative design og the headphones a lot of work for that still remains, code was taken from the esps3 music library with minor changes needed made still a lot are yet to be made. the headphones are entirelh diy i ddit design a sepwerat pcb as the chips neeed for audiophile gradee aren available in india so pcb fabrication is useless for that, using csr4050 chip is useless cause its extremely expensive here and currently is outdated but if requested i an make a whole pcb for the headphones , im using my 4 yr old headphone pch that still works i soldered and tested it , so this is walkman type of kit made by me for my own enjoyment , the headphone still ndeeas worjk on slots for buttons connections vetween cup parts, this should be actually good
+
+
+DIY MusicPod x Headphones
+Project Cost: $110
+Hours Spent: 40+ (and counting!)
+description -
+this is an audophile wlkman inspired custom designed by me. we have an audiophile grade mp3player with built in dac and amplifier with suporrting headphones .
+
+How would you use this project?-
+to listen to music with distraction of afds or checkinh pgine notifications just add in pocket and move ahead. seemless audiophile grade music without intrusions.
+ Why did you make this project?-
+i wanted to have audiophile grad music experienxe without the high price tag and making somethng of my own was the most right way to do it. 
+
 
 onshape link(mp3player)-https://cad.onshape.com/documents/048c7b74ffe28b9d030bc2e5/w/0375e359a7d5bf4b5c1c63b7/e/c909d057c5888ffc41c2d2ab?renderMode=0&uiState=687685c666acdc5adb8d3029
 
