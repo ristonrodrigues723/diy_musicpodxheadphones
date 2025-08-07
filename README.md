@@ -4,7 +4,7 @@
 DIY MusicPod x Headphones
 Project Cost: $110
 
-Hours Spent: 40+ still a lot remains
+Hours Spent: 46 still a lot remains
 
 Description:
 This is an audiophile-grade music player, custom-designed by me and inspired by the Sony Walkman. I have designed an audiophile-grade MP3 player with a built-in DAC and amplifier, along with supporting headphones. Two people can use this to listen to music at the same time due to the use of dual jacks.
