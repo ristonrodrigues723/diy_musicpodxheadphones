@@ -85,12 +85,15 @@ back-<img width="929" height="589" alt="image" src="https://github.com/user-atta
 
 
  diy headphones -<img width="1919" height="807" alt="image" src="https://github.com/user-attachments/assets/7e8be042-1a70-4b62-a6cf-df439fa159d5" />
-  a lot of work stil  remains ill do that as thins come
+
 
   <img width="1917" height="836" alt="image" src="https://github.com/user-attachments/assets/7cdd4852-d4f1-4bb5-aff0-4993e709cf2c" />
+cups
+<img width="1907" height="874" alt="image" src="https://github.com/user-attachments/assets/a4cc5e36-7559-4d9a-bfe5-56115bb61df5" />
 
 <img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/a8d6bf8f-b8f5-4cee-9914-d23502d4941a" />
+full assembly
+<img width="1917" height="824" alt="image" src="https://github.com/user-attachments/assets/8c4e5302-0efa-4ee1-a386-87295b740665" />
 
-<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/bf439a93-c66e-44ad-953f-1888c84672c4" />
 
 
