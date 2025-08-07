@@ -59,6 +59,8 @@ onshape headphone(heacdphones)-https://cad.onshape.com/documents/eff9b728d72c17e
 
 
 diy mp3 player mp3pod-
+main img<img width="1915" height="810" alt="image" src="https://github.com/user-attachments/assets/98f3bf3d-8ea2-4b73-abab-299fbcc1ce89" />
+
 <img width="1916" height="869" alt="image" src="https://github.com/user-attachments/assets/4d5f4409-c1ac-473f-8fca-54f981697d45" />
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/597191d6-8df6-437d-92bf-59a7fec7770b" />
 <img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/d70d1d80-9080-47ac-b9e4-c9291269b716" />
